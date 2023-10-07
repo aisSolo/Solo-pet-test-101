@@ -40,7 +40,7 @@ variable "database_password" {
 }
 
 variable "emails" {
-  default     = ["victor.adepoju@cloudhight.com", "tunde.afodunrinbi@cloudhight.com", "solomon.ajisafe@cloudhight.com" , "delaz.muz@cloudhight.com" ,"emeka.eze@cloudhight.com" , "rosemary.omokehinde@cloudhight.com" ]
+  default     = [ "solomon.ajisafe@cloudhight.com" ]
   description = "email address"
 }
 
